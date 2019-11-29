@@ -9,5 +9,5 @@ export default {
   data: () => ({
     rating: 3
   })
-}
+};
 </script>
